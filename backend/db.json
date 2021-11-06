@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Wiliender Ferreira Silva",
+      "email": "wiliendersilva@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Daniel Cristino",
+      "email": "danielcristino1@gmail.com"
+    },
+    {
+      "name": "Joao",
+      "email": "joao@gmail.com",
+      "id": 3
+    }
+  ]
+}
